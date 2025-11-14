@@ -1,0 +1,23 @@
+/* src/index.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  text-align: center;
+  padding: 50px;
+}
+
+button {
+  font-size: 20px;
+  margin: 10px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ccc;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
