@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/votechain/static/css/main.3982bb5f.css",
+    "main.js": "/votechain/static/js/main.1ecdcad8.js",
+    "index.html": "/votechain/index.html",
+    "main.3982bb5f.css.map": "/votechain/static/css/main.3982bb5f.css.map",
+    "main.1ecdcad8.js.map": "/votechain/static/js/main.1ecdcad8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3982bb5f.css",
+    "static/js/main.1ecdcad8.js"
+  ]
+}
