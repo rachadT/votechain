@@ -10,8 +10,7 @@ const About = () => {
       </p>
       <hr className="my-4" />
       <p>
-        Our mission is to empower citizens through technology, ensuring every vote counts and every voice is heard.
-        We combine user-friendly design with robust infrastructure to support fair and efficient elections.
+        Our mission is to ensure that every vote counts and every voice is heard.
       </p>
       <div className="mt-4">
         <Link to="/contact" className="btn btn-primary">Contact Us</Link>
